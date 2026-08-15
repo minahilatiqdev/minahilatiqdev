@@ -4,196 +4,223 @@
 
 ### `.NET Developer` · `AI Engineer`
 
-Building **.NET applications** and **AI-powered software solutions** with a focus on clean architecture, practical problem solving, and developer tools.
+**Building .NET applications and AI-powered software solutions.**
 
 <br>
 
 <a href="https://www.linkedin.com/in/minahil-atiq/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+&nbsp;
 <a href="mailto:minahilatiq8888@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B2C83,50:7B4BB7,100:2C1654&height=120&section=header&text=Code%20%7C%20Build%20%7C%20Learn&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=70" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:21113D,50:6C3BAA,100:9B6DCC&height=150&section=header&text=.NET%20%7C%20AI%20%7C%20Software%20Engineering&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=65" width="100%"/>
 
 </div>
 
 ---
 
-## 🚀 About Me
+<div align="center">
 
-I'm a **Computer Science graduate** with hands-on experience in **.NET development and AI-powered software solutions**.
+## 🚀 Featured Project
 
-My main focus is building practical software using:
+# PAAI — Personal AI Coding Assistant
 
-* 💻 **C# / .NET / ASP.NET**
-* 🗄️ **SQL & Database Design**
-* 🔌 **REST APIs**
-* 🤖 **AI & LLM Integrations**
-* 🧠 **Python & Computer Vision**
-* 🖥️ **WPF Desktop Applications**
+### AI-powered Windows developer tool built with C# and .NET 8
 
-I'm particularly interested in combining **software engineering with AI** to build useful developer tools and intelligent applications.
+</div>
 
----
+<div align="center">
 
-## 🔥 Featured Projects
+<!-- Replace this image with your PAAI screenshot/mockup uploaded to the repository -->
+
+<img src="./assets/paai-preview.png" width="95%" alt="PAAI AI Coding Assistant"/>
+
+</div>
+
+<br>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 PAAI — AI Coding Assistant
+### 🔴 Real-Time Error Detection
 
-A Windows desktop AI coding assistant built with **C# and .NET 8 WPF**.
-
-**Highlights**
-
-* Real-time file error detection
-* Claude API integration
-* AI-powered code fixing
-* Browser error interception
-* Code diff preview before applying changes
-* Automatic backups
-* Context-aware debugging
-* Support for 53+ programming languages
-
-**Tech**
-
-`C#` `.NET 8` `WPF` `Claude API` `Playwright`
-
-<br>
-
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/View_Project-7B4BB7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+PAAI monitors files in real time and detects coding errors as files are saved.
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🧠 Dyslexia Risk Evaluation System
+### 🤖 AI-Powered Fixes
 
-An AI-based system that screens dyslexia risk through **handwriting analysis** and provides personalized learning support.
+Errors are analyzed through the Claude API and AI-generated fixes are presented for review.
 
-**Highlights**
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🟢 Diff Preview
+
+Developers can review AI-suggested changes before applying them.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🌐 Browser Errors
+
+Browser console errors are captured through Playwright and routed through the same AI fixing pipeline.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### Tech Stack
+
+`C#` ` .NET 8` `WPF` `Claude API` `Playwright` `REST/HTTP`
+
+</div>
+
+---
+
+## 🧠 Dyslexia Risk Evaluation System
+
+AI-based system developed as a final-year project for screening dyslexia risk through handwriting analysis.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔬 AI & Computer Vision
 
 * Handwriting analysis
 * Deep learning model benchmarking
 * Letter-confusion profiling
-* Adaptive Unity learning game
+* Adaptive learning approach
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Application
+
 * Teacher dashboard
+* Risk-level visualization
 * Progress tracking
 * Automated PDF reports
+* Unity learning game
 
-**Tech**
+</td>
+</tr>
+</table>
+
+<div align="center">
 
 `Python` `TensorFlow` `PyTorch` `OpenCV` `Flask` `React` `MySQL` `Unity`
 
-<br>
-
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/View_Project-7B4BB7?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Technology Stack
+
+<div align="center">
 
 ### 💻 Languages
 
-<p>
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-</p>
+<img src="https://skillicons.dev/icons?i=cs,python,sql" />
 
-### ⚙️ Backend & Frameworks
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
+### ⚙️ Development
+
+<img src="https://skillicons.dev/icons?i=dotnet,react,flask,unity,git,github" />
+
+<br><br>
 
 ### 🤖 AI & Integrations
 
-<p>
 <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLM%20Integration-7B4BB7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Prompt%20Engineering-6C3483?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-</p>
+<img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
 
-### 🗄️ Databases & Tools
-
-<p>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+</div>
 
 ---
 
-## 🧩 Engineering Focus
+# 🧩 What I Build
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 
-### 🏗️
+## 💻
 
-**Clean Architecture**
+### .NET
 
-Service separation and maintainable application structure.
+C#
+ASP.NET
+.NET 8
+WPF
 
 </td>
 
 <td align="center" width="25%">
 
-### 🔌
+## 🔌
 
-**API Development**
+### Backend
 
-Building and integrating REST-based services.
-
-</td>
-
-<td align="center" width="25%">
-
-### 🤖
-
-**AI Integration**
-
-Connecting applications with LLMs and AI pipelines.
+REST APIs
+SQL
+Database Design
+Service Architecture
 
 </td>
 
 <td align="center" width="25%">
 
-### 🐛
+## 🤖
 
-**Debugging**
+### AI
 
-Finding, analyzing, and solving software problems.
+LLM Integration
+Claude API
+Prompt Engineering
+AI Pipelines
 
 </td>
+
+<td align="center" width="25%">
+
+## 🛠️
+
+### Engineering
+
+Debugging
+Optimization
+Git
+Agile/Scrum
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
@@ -201,56 +228,54 @@ Finding, analyzing, and solving software problems.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilatiqdev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
 
-<br>
+<br><br>
 
-<img src="https://streak-stats.demolab.com/?user=minahilatiqdev&theme=tokyonight&hide_border=true" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=minahilatiqdev&theme=tokyonight&hide_border=true" width="65%"/>
 
 </div>
 
 ---
 
-## 🎯 Currently Focused On
-
-```text
-.NET Development
-        ↓
-Backend Engineering
-        ↓
-AI & LLM Integrations
-        ↓
-Clean Architecture
-        ↓
-Building Real-World Software
-```
-
-I'm continuously improving my programming, problem-solving, and software engineering skills by building practical projects.
-
----
-
-## 🤝 Let's Connect
+# 🎯 Currently Focused On
 
 <div align="center">
 
+**.NET Development**
+↓
+**Backend Engineering**
+↓
+**AI & LLM Integrations**
+↓
+**Clean Architecture**
+↓
+**Real-World Software**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🤝 Let's Connect
+
 <a href="https://www.linkedin.com/in/minahil-atiq/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:minahilatiq8888@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br><br>
 
-**Open to .NET and AI-focused software development opportunities.**
+### 💜 Code. Learn. Build. Repeat.
 
 </div>
 
----
+<br>
 
 <div align="center">
 
-### 💜 Code. Learn. Build. Repeat.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C1654,50:7B4BB7,100:5B2C83&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9B6DCC,50:6C3BAA,100:21113D&height=100&section=footer" width="100%"/>
 
 </div>
