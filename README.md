@@ -1,4 +1,4 @@
-### 🛠️ Tech Stack
+### Tech Stack
 
 **Languages & Frameworks:** C#, ASP.NET, .NET 8, WPF, Python, SQL, REST APIs
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 📌 Featured Projects
+### Featured Projects
 
 **[PAAI — Personal AI Coding Assistant](#)**
 Windows desktop AI coding assistant that lives in the system tray, monitors file saves in real time, and automatically detects and fixes errors using large language models across 53+ programming languages.
