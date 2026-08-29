@@ -1,110 +1,204 @@
-<div align="center">
+# Minahil Atiq
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6E56CF,100:D97757&height=200&section=header&text=Minahil%20Atiq&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=.NET%20Developer%20%7C%20AI%20Systems%20Engineer&descAlignY=58&descSize=20" width="100%" />
+### .NET Developer & AI Integrations
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=6E56CF&center=true&vCenter=true&width=700&lines=Building+production+.NET+applications;Integrating+Claude+API+into+real+developer+tools;Shipped+an+AI+coding+assistant+used+daily;Trained+deep+learning+models+for+social+impact" />
+Computer Science graduate with hands-on experience in .NET development and AI-powered software solutions. I build developer tools, AI integrations, and software applications focused on practical, real-world problems.
 
-<br>
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minahil-atiq)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minahilatiq8888@gmail.com)
-[![Location](https://img.shields.io/badge/Lahore%2C_Pakistan-6E56CF?style=for-the-badge&logo=googlemaps&logoColor=white)]()
+## About Me
 
-</div>
+* .NET Developer with experience in C#, ASP.NET, .NET 8 WPF, SQL, and REST APIs
+* Experienced in integrating AI capabilities into software applications
+* Built and shipped PAAI, an AI coding assistant with real-time error detection and automated fixing
+* Strong foundation in OOP, database design, clean architecture, debugging, and optimization
+* Familiar with Agile/Scrum development and technical documentation
+* Interested in .NET development, AI software engineering, and intelligent automation
 
-<br>
+---
 
-## About
+## Technical Skills
 
-Computer Science graduate from UET Lahore working at the intersection of production software engineering and applied AI. Trained through a .NET internship at Glosix, and independently built **PAAI** — a Windows desktop app that embeds the Claude API into a developer's live workflow, detecting and fixing code errors in real time across 53+ languages.
+### Languages & Frameworks
 
-<br>
+<p>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge" />
+</p>
 
-## Tech Stack
+### AI & Integrations
 
-<div align="center">
+<p>
+<img src="https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,sqlite,git,flask,react,unity&theme=dark" />
+### Engineering
 
-<br><br>
+`OOP` · `Clean Architecture` · `Database Design` · `Debugging & Optimization` · `Service-Oriented Design` · `LLM Prompt Engineering`
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET_8-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Tools & Practices
 
-</div>
+`Git` · `GitHub` · `Agile/Scrum` · `Technical Documentation` · `FileSystemWatcher` · `REST/HTTP`
 
-<br>
+---
 
-## Experience
+# Featured Projects
 
-**.NET Developer Intern · Glosix SMC (Private) Limited**
-`June 2025 – August 2025` · Lahore, Pakistan
+## PAAI — Personal AI Coding Assistant
 
-Contributed to production .NET applications — debugging, performance optimization, and feature development within an Agile/Scrum team, maintaining coding standards and technical documentation across modules.
+**Windows Desktop Application | 2025 – Present**
 
-<br>
+PAAI is an AI coding assistant designed to monitor code changes in real time, detect errors, and automatically generate fixes using the Claude API.
 
-## Featured Projects
+### Key Features
 
-<table>
-<tr>
-<td width="50%" valign="top">
+* Real-time monitoring of file saves
+* Automatic error detection and AI-powered fixing
+* Support for 53+ programming languages
+* Claude Sonnet 4.6 and Claude Haiku 4.5 integration
+* Task-based model selection to balance cost and quality
+* Red/green diff preview before applying changes
+* Apply/Ignore workflow for AI-generated modifications
+* Automatic `.paai_backup` before changes are written to disk
+* Browser console error interception using Playwright
+* Context-aware debugging by scanning related files
+* Local conversation memory using JSON
+* File and image attachments
+* Resizable AI chat interface
+* Clean service separation for independent testing
 
-### PAAI — AI Coding Assistant
+### Architecture
 
-<img src="https://raw.githubusercontent.com/minahilatiqdev/PAAI-AI-Coding-Assistant/main/screenshot/main-window.png" width="100%" />
+`ClaudeService` · `TerminalService` · `BrowserService` · `DiffService`
 
-**A Windows desktop app that watches your code and fixes it live.**
+### Technology
 
-Runs in the system tray, monitors file saves via `FileSystemWatcher`, and automatically detects and fixes errors using the Claude API — across 53+ programming languages. Every AI-suggested fix appears in a red/green diff view (Apply/Ignore) before touching disk, with automatic backups. Browser errors are captured via Playwright and routed through the same fix pipeline.
+`C#` · `.NET 8` · `WPF` · `Claude API` · `Playwright` · `FileSystemWatcher` · `REST/HTTP`
 
-`C#` `.NET 8` `WPF` `Claude API` `Playwright`
+[View Repository](https://github.com/minahilatiqdev/PAAI-AI-Coding-Assistant)
 
-[**View Repository →**](https://github.com/minahilatiqdev/PAAI-AI-Coding-Assistant)
+---
 
-</td>
-<td width="50%" valign="top">
+## DriveGo
 
-### Dyslexia Risk Evaluation System
+**Web Application**
 
-**AI-powered early screening for children, disguised as a game.**
+DriveGo is a modern vehicle-focused web application developed as a full-stack project.
 
-Screens children for dyslexia risk from handwriting samples and turns results into a personalized, game-based learning path. Benchmarked four deep learning architectures — CNN, ResNet, EfficientNet, MobileNet — on combined Kaggle and classroom datasets. Feeds a letter-confusion profile (b/d, p/q, n/u) into an adaptive Unity game, with a teacher dashboard for progress tracking and automated PDF reports.
+The project demonstrates practical web development, responsive interface design, structured application development, and modern frontend implementation.
 
-`Python` `TensorFlow` `PyTorch` `OpenCV` `Unity` `Flask` `MySQL`
+### Technology
 
-*Final Year Project · Team of 4 · UET Lahore*
+`Next.js` · `TypeScript` · `React`
 
-</td>
-</tr>
-</table>
+[View Repository](https://github.com/minahilatiqdev)
 
-<br>
+---
 
-## GitHub Stats
+## Gadgetrixo
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=minahilatiqdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilatiqdev&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</div>
+**E-commerce Web Application**
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilatiqdev&theme=tokyonight&hide_border=true" />
-</div>
+Gadgetrixo is a modern e-commerce project focused on building a polished product-focused shopping experience.
 
-<br>
+The project demonstrates frontend development, e-commerce interface design, product presentation, and modern web application development.
 
-## Education
+### Technology
 
-**BS Computer Science** — University of Engineering and Technology, Lahore · `2022 – 2026`
+`Next.js` · `TypeScript` · `React` · `Supabase`
 
-<br>
+[View Repository](https://github.com/minahilatiqdev)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D97757,100:6E56CF&height=100&section=footer" width="100%" />
+---
+
+## Dyslexia Risk Evaluation System
+
+**Final Year Project | May 2025 – January 2026**
+
+An AI-based system that screens children for dyslexia risk through handwriting analysis and provides personalized, game-based practice.
+
+### Key Features
+
+* Handwriting-based dyslexia risk screening
+* Training and benchmarking of CNN, ResNet, EfficientNet, and MobileNet
+* Combined Kaggle and real classroom handwriting datasets
+* Letter-confusion profiling including b/d, p/q, and n/u
+* Adaptive Unity learning game
+* Teacher dashboard
+* Risk-level visualization
+* Progress tracking
+* Automated PDF reports for teachers and parents
+
+### Technology
+
+`Python` · `TensorFlow` · `PyTorch` · `OpenCV` · `Flask` · `React` · `MySQL` · `Unity` · `C#` · `Git`
+
+**University of Engineering and Technology, Lahore — Team of 4**
+
+---
+
+# Professional Experience
+
+## .NET Developer Intern
+
+**Glosix SMC (Private) Limited**
+**June 2025 – August 2025 | Lahore, Pakistan**
+
+* Assisted in the development and maintenance of .NET-based applications
+* Participated in debugging, code optimization, and performance enhancement
+* Supported the design and implementation of new software features
+* Collaborated in Agile/Scrum project discussions and daily stand-ups
+* Documented project modules and followed coding standards
+
+---
+
+# Education
+
+## BS Computer Science
+
+**University of Engineering and Technology, Lahore**
+
+**2022 – 2026**
+
+---
+
+# Areas of Interest
+
+`.NET Development` · `Artificial Intelligence` · `AI Integrations` · `Developer Tools` · `LLM Applications` · `Software Engineering` · `Intelligent Automation`
+
+---
+
+# GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minahilatiqdev&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilatiqdev&layout=compact&hide_border=true&theme=transparent" height="170" />
+</p>
+
+---
+
+# Connect
+
+<p>
+<a href="https://github.com/minahilatiqdev">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/minahil-atiq">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</p>
+
+---
+
+<p align="center">
+Building practical software with .NET, AI, and modern technologies.
+</p>
