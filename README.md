@@ -17,4 +17,3 @@ AI-based system that screens children for dyslexia risk through handwriting anal
 
 **Tech Used:** Python, TensorFlow/PyTorch, OpenCV, Flask, React, MySQL, Unity
 
-> Code not publicly hosted — details available on request
