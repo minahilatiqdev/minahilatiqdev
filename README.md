@@ -1,381 +1,105 @@
 <div align="center">
 
-# MINAHIL ATIQ
+# Hi, I'm Minahil Atiq 👋
 
-### .NET Developer & AI Integrations
+### AI & .NET Developer
 
-Computer Science graduate focused on .NET development, AI-powered software, and intelligent developer tools.
-
-<p>
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://linkedin.com/in/minahil-atiq">
-<img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+I build AI-powered applications and production .NET software. Passionate about solving real-world problems using technology.
 
 </div>
 
----
+<br>
 
-## PROFILE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Developer
-
-Computer Science graduate with hands-on experience in .NET development and AI-powered software solutions.
-
-Experienced in building production-focused applications, AI integrations, developer tools, and full-stack systems.
-
-</td>
-
-<td width="50%" valign="top">
-
-### Focus
-
-```text
-.NET Development
-AI Integrations
-Developer Tools
-LLM Applications
-Software Engineering
-Intelligent Automation
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## TECHNOLOGIES
+## 🖥️ Tech Stack
 
 <div align="center">
 
-### Languages & Frameworks
-
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET%208-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-### AI & Integrations
-
-<img src="https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white"/>
-
-### Engineering
-
-<img src="https://img.shields.io/badge/OOP-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Clean%20Architecture-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST%20APIs-181717?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Git-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<table>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="36"/><br><b>C#</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg" width="36"/><br><b>.NET 8</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36"/><br><b>Python</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36"/><br><b>SQL</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="36"/><br><b>Git</b></td>
+</tr>
+<tr>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36"/><br><b>TensorFlow</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36"/><br><b>PyTorch</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36"/><br><b>OpenCV</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="36"/><br><b>Flask</b></td>
+<td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="36"/><br><b>Unity</b></td>
+</tr>
+</table>
 
 </div>
 
----
+<br>
 
-# FEATURED PROJECTS
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
-## PAAI
+<img src="https://raw.githubusercontent.com/minahilatiqdev/PAAI-AI-Coding-Assistant/main/screenshot/main-window.png" width="100%"/>
 
-### Personal AI Coding Assistant
+### PAAI — AI Coding Assistant
 
-AI-powered Windows desktop application that monitors code changes in real time, detects errors, and generates fixes using the Claude API.
+An AI-powered coding assistant that lives in your system tray, detects errors in your code in real time, and automatically suggests fixes — across 53+ programming languages, powered by the Claude API.
 
-**Core capabilities**
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square)
+![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
 
-* Real-time file monitoring
-* Automatic error detection
-* AI-powered code fixing
-* 53+ programming languages
-* Claude Sonnet 4.6 / Haiku 4.5
-* Red/green diff preview
-* Automatic backups
-* Browser error interception
-* Context-aware debugging
-* Local conversation memory
-
-**Stack**
-
-`C#` `.NET 8` `WPF` `Claude API` `Playwright`
-
-<br>
-
-<a href="https://github.com/minahilatiqdev/PAAI-AI-Coding-Assistant">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+📂 [Source Code](https://github.com/minahilatiqdev/PAAI-AI-Coding-Assistant)
 
 </td>
-
 <td width="50%" valign="top">
 
-## DRIVEGO
+<img src="https://img.shields.io/badge/-Dyslexia%20Risk%20Evaluation%20System-1a1a2e?style=for-the-badge&labelColor=6E56CF" width="100%"/>
 
-### Vehicle Platform
+### Dyslexia Risk Evaluation System
 
-A modern vehicle-focused web application designed around a clean, responsive interface and interactive vehicle browsing experience.
+An AI system that screens children for dyslexia risk through handwriting analysis and turns results into a personalized, game-based learning path — built with a team of 4 as a Final Year Project.
 
-**Core capabilities**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-* Vehicle discovery
-* Search and filtering
-* Responsive interface
-* Modern vehicle cards
-* Interactive browsing experience
-* Modern web architecture
-
-**Stack**
-
-`Next.js` `TypeScript` `React`
-
-<br>
-
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-## GADGETRIXO
-
-### E-commerce Platform
-
-A modern e-commerce application focused on product discovery and a polished online shopping experience.
-
-**Core capabilities**
-
-* Product browsing
-* Product discovery
-* Shopping experience
-* Responsive interface
-* Product-focused UI
-* Modern web application
-
-**Stack**
-
-`Next.js` `TypeScript` `React` `Supabase`
-
-<br>
-
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-## DYSLEXIA RISK EVALUATION
-
-### Final Year Project
-
-AI-based system that screens children for dyslexia risk through handwriting analysis and provides personalized, game-based practice.
-
-**Core capabilities**
-
-* Handwriting analysis
-* Dyslexia risk screening
-* CNN / ResNet / EfficientNet / MobileNet
-* Letter-confusion profiling
-* Adaptive Unity learning game
-* Teacher dashboard
-* Progress tracking
-* Automated PDF reports
-
-**Stack**
-
-`Python` `TensorFlow` `PyTorch` `OpenCV` `Flask` `React` `MySQL` `Unity`
-
-</td>
-
-</tr>
-</table>
-
----
-
-# PROJECT SHOWCASE
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-### PAAI
-
-AI Coding Assistant
-
-**2025 – Present**
-
-</td>
-
-<td align="center" width="25%">
-
-### DriveGo
-
-Vehicle Platform
-
-**Web Application**
-
-</td>
-
-<td align="center" width="25%">
-
-### Gadgetrixo
-
-E-commerce Platform
-
-**Web Application**
-
-</td>
-
-<td align="center" width="25%">
-
-### Dyslexia System
-
-AI Screening System
-
-**Final Year Project**
+*Final Year Project · UET Lahore*
 
 </td>
 </tr>
 </table>
 
----
+<br>
 
-# EXPERIENCE
-
-<table>
-<tr>
-<td width="25%">
-
-**JUN 2025**
-
-**AUG 2025**
-
-</td>
-
-<td>
-
-### .NET Developer Intern
-
-**Glosix SMC (Private) Limited**
-
-Lahore, Pakistan
-
-Development and maintenance of .NET applications, debugging, code optimization, performance improvements, feature development, Agile/Scrum collaboration, and technical documentation.
-
-</td>
-</tr>
-</table>
-
----
-
-# EDUCATION
-
-### BS Computer Science
-
-**University of Engineering and Technology, Lahore**
-
-`2022 – 2026`
-
----
-
-# GITHUB ACTIVITY
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=minahilatiqdev&show_icons=true&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&icon_color=8B5CF6&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=minahilatiqdev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilatiqdev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minahilatiqdev&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&title_color=8B5CF6&text_color=FFFFFF" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minahilatiqdev&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minahilatiqdev&theme=tokyo-night&hide_border=true" width="100%"/>
 
 </div>
 
----
+<br>
 
-# DEVELOPMENT FOCUS
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-**.NET**
-
-C#
-ASP.NET
-WPF
-
-</td>
-
-<td align="center" width="20%">
-
-**AI**
-
-LLMs
-AI APIs
-ML
-
-</td>
-
-<td align="center" width="20%">
-
-**SOFTWARE**
-
-Architecture
-Debugging
-Optimization
-
-</td>
-
-<td align="center" width="20%">
-
-**WEB**
-
-React
-Next.js
-TypeScript
-
-</td>
-
-<td align="center" width="20%">
-
-**DATA**
-
-SQL
-MySQL
-Database Design
-
-</td>
-</tr>
-</table>
-
----
+## 📫 Connect with Me
 
 <div align="center">
 
-## BUILDING SOFTWARE WITH .NET, AI & MODERN TECHNOLOGIES
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/minahil-atiq)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minahilatiq8888@gmail.com)
 
-<a href="https://github.com/minahilatiqdev">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-6E40C9?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<br>
+
+*Code. Build. Automate. Innovate.*
 
 </div>
