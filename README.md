@@ -6,10 +6,12 @@
 
 **Tools & Practices:** Git, GitHub, Agile/Scrum
 
+**Skills & Concepts:** OOP, Clean Architecture, Database Design, Service-Oriented Design, Debugging & Optimization, Technical Documentation
+
 ---
 
-###  🎓 Final Year Project
+### 🎓 Final Year Project
 
-**[Dyslexia Risk Evaluation System](#)** 
+**[Dyslexia Risk Evaluation System](#)** 🎓 *Final Year Project*
 AI-based system that screens children for dyslexia risk through handwriting analysis and delivers personalized, game-based practice. Developed with a team of 4 at UET Lahore.
 `Python · TensorFlow/PyTorch · OpenCV · Flask · React · MySQL · Unity`
