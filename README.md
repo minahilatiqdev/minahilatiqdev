@@ -1,10 +1,11 @@
-##  Tech Stack
+## Tech Stack
 
 | Category | Technologies |
 |---|---|
-| Languages & Frameworks | C#, ASP.NET, .NET 8, WPF, Python, SQL, REST APIs |
-| AI & Integrations | LLM Prompt Engineering, Real-time AI Pipelines, Playwright |
-| Tools & Practices | Git, GitHub, Agile/Scrum |
+| Languages & Frameworks | C#, .NET 8, ASP.NET MVC, WPF, Python, TypeScript, JavaScript, SQL, REST APIs |
+| AI & Integrations | LangChain, LangGraph, RAG, LLM Prompt Engineering, Google Gemini, Claude API, Playwright |
+| Databases | SQL Server, MySQL, ChromaDB |
+| Tools & Practices | Git, GitHub, Entity Framework, Agile/Scrum |
 | Skills & Concepts | OOP, Clean Architecture, Database Design, Service-Oriented Design, Debugging & Optimization, Technical Documentation |
 
 <br>
