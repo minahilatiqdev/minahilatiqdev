@@ -9,6 +9,7 @@
 | Skills & Concepts | OOP, Clean Architecture, Database Design, Service-Oriented Design, Debugging & Optimization, Technical Documentation |
 
 <br>
+
 ## **Open Source Contributions**
 
 | Project | Contribution | Status |
