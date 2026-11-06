@@ -10,11 +10,12 @@
 
 <br>
 
-**Open Source Contributions**
+## **Open Source Contributions**
 
 | Project | Contribution | Status |
 |---|---|---|
 | [dotnet/sign](https://github.com/dotnet/sign) (.NET Foundation) | Fixed `--file-list` being ignored for standalone input files ([#990](https://github.com/dotnet/sign/issues/990)). Added regression tests and addressed maintainer review feedback. | [PR #1076](https://github.com/dotnet/sign/pull/1076) · Merged |
+
 ## 🎓 Final Year Project — UET Lahore (Team of 4)
 
 ### Dyslexia Risk Evaluation System
